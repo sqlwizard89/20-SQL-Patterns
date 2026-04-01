@@ -1,6 +1,6 @@
-# 100 SQL Patterns — Real-World Data Interview Scenarios
+# 20 SQL Patterns — Real-World Data Interview Scenarios
 
-Welcome to the **100 SQL Patterns** project — a growing library of real-world SQL queries designed to tackle business problems, interview scenarios, and data analytics challenges using the **World Wide Importers** dataset.
+Welcome to the **20 SQL Patterns** project — a growing library of real-world SQL queries designed to tackle business problems, interview scenarios, and data analytics challenges using the **World Wide Importers** dataset.
 
 ---
 
@@ -44,7 +44,7 @@ Each file includes:
 | 12             | Customers with Largest Single Order in Last 60 Days Compared to Previous Orders | ✅ Done | High-value customer identification |
 | 13             | High-Value Inactive Customers | ✅ Done | Top spenders with no orders in last 90 days, churn risk ||
 
-> More patterns added regularly. Target: **100** patterns with comprehensive coverage.
+> More patterns added regularly. Target: **20** patterns with comprehensive coverage.
 
 ---
 
